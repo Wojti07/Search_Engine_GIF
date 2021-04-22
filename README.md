@@ -13,7 +13,7 @@ Opis: Przećwiczenie tworzenia komponentów w React za pomocą składni preproce
 Efektem zadania jest wyszukiwarka gifów pobierająca obrazki przez API (https://developers.giphy.com).
 
 ## Screenshots
-![Example screenshot](./src/image/project_4.jpg)
+![Example screenshot](./src/images/project_4.jpg)
 
 ## Technologies
 
