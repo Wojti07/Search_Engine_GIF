@@ -1,0 +1,11 @@
+{
+  "name": "gif",
+  "version": "1.0.0",
+  "description": "## Table of contents * [General info](#general-info) * [Screenshots](#screenshots) * [Technologies](#technologies) * [Contact](#contact)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojciech Pyrlik",
+  "license": "ISC"
+}
