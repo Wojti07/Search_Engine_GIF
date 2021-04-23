@@ -1,5 +1,5 @@
 body {
-  background: url("/src/images/poster_2.jpg");
+  background: url("../images/poster_2.jpg");
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
 }
