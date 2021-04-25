@@ -30,7 +30,7 @@ Efektem zadania jest wyszukiwarka gifów pobierająca obrazki przez API (https:/
 
 ## Code Examples
 
-![Code Examples](./src/images/code.jpg)
+(./src/images/code.jpg)
 
 ## Contact
 
